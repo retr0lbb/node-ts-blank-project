@@ -1,0 +1,7 @@
+#basic configurations
+
+node_modules
+.env
+.env.local
+
+#add here more files to ignore
